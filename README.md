@@ -25,7 +25,7 @@ Edit `.env` and add your OpenAI API key.
 
 ### Simple Structured Output
 ```bash
-node main.js
+node simple.js
 ```
 Demonstrates basic structured output using a Zod schema to generate a joke with setup and punchline.
 
@@ -37,7 +37,7 @@ Shows a more complex example that generates a joke and then rates it using a cha
 
 ## Project Structure
 
-- `main.js` - Simple structured output example
+- `simple.js` - Simple structured output example
 - `chain.js` - Advanced chaining example with joke generation and rating
 - `.env` - Environment configuration (not in git)
 - `.env.example` - Environment template
