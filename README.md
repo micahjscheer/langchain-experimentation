@@ -52,5 +52,5 @@ Shows a more complex example that generates a joke and then rates it using a cha
 
 ## Notes
 
-The project uses GPT-4 for optimal results. Ensure your OpenAI API key has GPT-4 access.
+The project uses GPT-4o for optimal results. Ensure your OpenAI API key has GPT-4o access.
 
